@@ -19,7 +19,7 @@ function App() {
           Learn React
         </a>
         <h1>
-        Hello Kitty!!! App is working from docker-compose 
+        Hello Kitty!!! This application is using AWS :) 
        </h1>
       </header>
     </div>
